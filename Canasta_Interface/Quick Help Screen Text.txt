@@ -1,0 +1,10 @@
+Click on the cards to select them, 50, 100, 255, 25
+You can only create a meld with three or, 50, 130, 255, 25
+more cards that have the same value, 50, 160, 255, 25
+You can only draw one card from the card pile or, 50, 190, 255, 25
+the discard pile once per round, 50, 220, 255, 25
+A Canasta is automatically created when you have a meld of sever or more cards, 50, 250, 255, 25
+Save your Red and Black 3's, 50, 280, 255, 25
+Discard your card at the end of your round, 50, 310, 255, 25
+Go out to win the game, 50, 340, 255, 25
+Happy Canastaing, 400, 370, 255, 25

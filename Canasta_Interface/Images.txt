@@ -1,0 +1,6 @@
+Intro Background.jpg,0,0,1000,700/Canasta.png,100,80,300,130
+Welcome Background.jpg,0,0,1000,700/Welcome Sign.png,100,50,200,120
+Game Rule Background.jpg,0,0,1000,700
+Welcome Background.jpg,0,0,1000,700
+Game Background.jpg,0,0,1000,700/Pause Icon.png,950,0,50,50/Card Back Vertical.jpg,300,175,72,96
+Game Background.jpg,0,0,1000,700/Pause Background.png,325,150,350,500

@@ -1,0 +1,12 @@
+Game play, 50, 100, 255, 20
+Discard a card, 50, 130, 255, 20
+Click the card you want to discard and click the discard button to discard a card, 50, 160, 255, 20
+Your turn ends once you discard the card, 50, 190, 255, 20
+Select a card, 50, 220, 255, 20
+Click on the card you want select and the card will slide upward, 50, 250, 255, 20
+Going out, 50, 280, 255, 20
+Click the going out button if you have only one card left and wish to go out, 50, 310, 255, 20
+Create a meld, 50, 340, 255, 20
+Select three cards that you want the meld to be and click the create meld button, 50, 370, 255, 20
+Draw a card, 50, 400, 255, 20
+Click on the card pile or the discard pile to draw a card, 50, 430, 255, 20

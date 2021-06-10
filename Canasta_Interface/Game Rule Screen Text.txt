@@ -1,0 +1,21 @@
+Game Rule, 50, 50, 255, 20
+Overview, 50, 80, 255, 20
+Canasta is a card game for four players as two teams, 50, 110, 255, 20
+The goal is to have as many points as possible, 50, 140, 255, 20
+Different card values have different points, 50, 170, 255, 20
+A player must go out to end the game, 50, 200, 255, 20
+Game setup, 50, 230, 255, 20
+Each player is dealt with thirteen cards at the start, 50, 260, 255, 20
+Each player must discard one card at the end of each turn, 50, 290, 255, 20
+Player's turn, 50, 320, 255, 20
+To start: each player must draw one card from card pile, 50, 350, 255, 20
+or the discard pile, 50, 380, 255, 20
+A player can only draw cards at the start of each turn, 50, 410, 255, 20
+The player's goal is to create a meld, 50, 440, 255, 20
+A meld is made up of three cards with the same value, 50, 470, 255, 20
+Partners can add to their teammate’s melds, 50, 500, 255, 20
+Red 3s and Black 3s, 50, 530, 255, 20
+Each red 3s is worth 100 points, 50, 560, 255, 20
+Players can use blacks 3s to form a meld only if they are going out, 50, 590, 255, 20
+The player can add the top card from the discard pile in one of his melts, 50, 620, 255, 20
+or start a new meld with at least two other cards from his or her hand, 50, 650, 255, 20
